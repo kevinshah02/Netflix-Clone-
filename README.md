@@ -1,1 +1,2 @@
-# netflix-clone-live
+# netflix-clone-live 
+Inspired by Full Stack developer.
